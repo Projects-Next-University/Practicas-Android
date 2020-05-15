@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Location Service</string>
+    <string name="txt_titulo">Tu ubicación</string>
+</resources>

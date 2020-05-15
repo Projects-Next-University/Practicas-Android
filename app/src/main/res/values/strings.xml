@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Proyectos Android</string>
+    <string name="txt_titulo">Obtención de la respuesta de Geocoding API</string>
+    <string name="contenido">Aquí se mostrará el contenido de la respuesta JSON</string>
+    <string name="txt_boton1">Obtener texto JSON</string>
+    <string name="valores">valores</string>
 </resources>
